@@ -1,0 +1,28 @@
+#header{
+    background-color: #7e0623;
+    display: block;
+    width:100%;
+    border: 1px solid black;
+}
+#main{
+    background-color: #f67e7e;
+    display: block;
+    width:100%;
+    height: 500px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-image: url("https://www.katebackdrop.com/cdn/shop/products/Kate_Valentine_s_Day_Backdrop_Sweet_Love_for_Photography_6.5x6.5ft_B1031381G.jpg?v=1632986691&width=1000");
+}
+#footer{
+    background-color:  #7e0623;
+    padding-top: 20px;
+    height: 50px;
+
+
+}
+#im{
+
+    width: 100%; height: 600px;
+
+
+}
